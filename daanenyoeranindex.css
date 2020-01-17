@@ -1,0 +1,16 @@
+ body {background-color:burlywood}
+    h1   {color:orangered}
+h3 {color:darkgreen}
+html, body {
+    height: 80%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
